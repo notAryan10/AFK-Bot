@@ -1,5 +1,6 @@
 {
-	"ip":"NSTidkversion.aternos.me",
-	"port": "44494",
-	"name": "afk_bot"
+        "ip":"NSTidkversion.aternos.me",
+        "port": "44494",
+        "name": "afk_bot",
+        "version": "1.20.4"
 }
